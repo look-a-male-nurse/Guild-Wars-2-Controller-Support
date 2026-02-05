@@ -10,7 +10,7 @@ Requirements:
 
 Steam: My controller setup uses Steam's native controller translation. Players with ANET accounts can either add GW2 as a non-steam game or log in via Steam using  -provider Portal entered into the "launch options" box.
 
-My Steam Input template is [Steam Controller Config](steam://controllerconfig/1284210/3625357069)
+My Steam Input template is steam://controllerconfig/1284210/3625357069
 
 My matching GW2 Hotkeys export: [ControllerSetup.xml](https://github.com/look-a-male-nurse/Guild-Wars-2-Controller-Support/blob/1571cb512597cdae71d99679b2bbf6618371b2e3/Controller%20Setup.xml)
 
