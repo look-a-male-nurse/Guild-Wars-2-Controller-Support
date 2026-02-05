@@ -12,7 +12,7 @@ Steam: My controller setup uses Steam's native controller translation. Players w
 
 My Steam Input template is steam://controllerconfig/1284210/3625357069
 
-My matching GW2 Hotkeys export: ControllerSetup.xml
+My matching GW2 Hotkeys export: [ControllerSetup.xml](https://github.com/look-a-male-nurse/Guild-Wars-2-Controller-Support/blob/1571cb512597cdae71d99679b2bbf6618371b2e3/Controller%20Setup.xml)
 
 Nexus Addon Manager: Required for reffect. Available [Here](https://raidcore.gg/Nexus)
 
