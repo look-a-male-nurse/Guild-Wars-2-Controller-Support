@@ -1,0 +1,31 @@
+<InputBindings>
+    <action name="Turn Left" id="4" device="None"/>
+    <action name="Turn Right" id="5" device="None"/>
+    <action name="Dodge" id="6" device="Keyboard" button="2"/>
+    <action name="Autorun" id="7" device="None" device2="Mouse" button2="1"/>
+    <action name="Toggle Action Camera" id="78" device="Keyboard" button="12" device2="Keyboard"/>
+    <action name="Utility Skill 2" id="25" device2="Keyboard" button2="81"/>
+    <action name="Utility Skill 3" id="26" device2="Keyboard" button2="69"/>
+    <action name="Chat Command" id="52" device="None"/>
+    <action name="Show/Hide UI" id="55" device="Keyboard" button="72" mod="6"/>
+    <action name="Interact" id="65" device2="Mouse" button2="3"/>
+    <action name="Mount Ability 1" id="130" device2="Keyboard" button2="53"/>
+    <action name="Mount Ability 2" id="153" device2="Keyboard" button2="52"/>
+    <action name="Raptor Mount/Dismount" id="155" device="Keyboard" button="14" mod="1"/>
+    <action name="Springer Mount/Dismount" id="156" device="Keyboard" button="12" mod="1"/>
+    <action name="Skimmer Mount/Dismount" id="157" device="Keyboard" button="6" mod="1"/>
+    <action name="Jackal Mount/Dismount" id="158" device="Keyboard" button="3" mod="1"/>
+    <action name="Griffon Mount/Dismount" id="159" device="Keyboard" button="80" mod="4"/>
+    <action name="Roller Beetle Mount/Dismount" id="161" device="Keyboard" button="76" mod="1"/>
+    <action name="Warclaw Mount/Dismount" id="169" device="Keyboard" button="79" mod="1"/>
+    <action name="Siege Turtle Mount/Dismount" id="203" device="Keyboard" button="76" mod="4"/>
+    <action name="Equip/Unequip Novelty" id="162" device="None"/>
+    <action name="Activate Chair" id="163" device="Keyboard" button="85"/>
+    <action name="Activate Mastery Skill" id="196" device="None"/>
+    <action name="Start Fishing" id="204" device="Keyboard" button="8" mod="2" device2="Keyboard" button2="104"/>
+    <action name="Summon Skiff" id="205" device="Keyboard" button="15" mod="2" device2="Keyboard" button2="103"/>
+    <action name="Set Jade Bot Waypoint" id="206" device="Keyboard" button="76"/>
+    <action name="Scan for Rift" id="207" device="Keyboard" button="15" device2="Keyboard" button2="102"/>
+    <action name="Skyscale Leap" id="208" device="Keyboard" button="96"/>
+    <action name="Conjured Doorway" id="211" device="Keyboard" button="74"/>
+</InputBindings>
