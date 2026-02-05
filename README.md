@@ -1,6 +1,6 @@
 ![Image](https://github.com/look-a-male-nurse/Guild-Wars-2-Controller-Support/blob/adb9dc69539706c27744c438407fa0ea86647a88/UI%20Button%20ScreenShot%201.png)
 
-![Image](https://github.com/look-a-male-nurse/Guild-Wars-2-Controller-Support/blob/83d9373faea906d751755df0264a27ac7db2ad3c/UI%20Button%20ScreenShot%201.jpg)
+![Image](https://github.com/look-a-male-nurse/Guild-Wars-2-Controller-Support/blob/e70131f8ff1d76e0336e8d81f9385f14178c60be/UI%20Button%20ScreenShot%202.png)
 
 I am by no means an expert in using Reffect or Steam input, but it should at least provide people with a starting point.
 
